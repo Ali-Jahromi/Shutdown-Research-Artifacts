@@ -6,7 +6,7 @@ FPS 2026 "When Visibility Is Not Connectivity: Multi-Plane Measurement of Iranâ€
 
 ## License
 
-Code (`scripts/`, `sql/`): MIT License â€” see `LICENSE`.
+Code (`scripts/`, `sql/`): MIT License (see `LICENSE`).
 
 Derived datasets (`data/`): Copyright (c) 2026 Ali Sadeghi Jahromi and
 Jason Jaskolka, licensed under Creative Commons Attribution-NonCommercial
